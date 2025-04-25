@@ -1,7 +1,7 @@
 # Average-Color-Finder
 A python project that will find the average color of an image.
 
-The test image (Shurelya's Battlesong, it's what I had lying around.):
+The test image:
 
 ![Alt text](test.png?raw=true "Test Image, Shurelya's Battlesong")
 
